@@ -611,6 +611,7 @@ section:hover,
 
 .certificate-info {
   padding: 1.5rem;
+  /* background-color: aliceblue; */
 }
 
 .certificate-info h4 {
