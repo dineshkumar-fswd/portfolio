@@ -157,8 +157,8 @@ header::before {
 .profile-img {
   width: 180px;
   height: 180px;
-  border-radius: 50%;
-  object-fit: fill;
+  border-radius: 0px 50% 50% 0px;
+  object-fit: cover;
   border: 5px solid white;
   box-shadow: 5px 5px 10px blue;
   transition: var(--transition);
